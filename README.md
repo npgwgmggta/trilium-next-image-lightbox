@@ -2,7 +2,11 @@
 
 > Trilium Next 图片灯箱查看器：双击笔记中的图片，即可进入全屏查看、缩放、切换、复制、导出和查看图片信息。
 
-[演示视频 / Demo Video](./PixPin_2026-07-10_15-17-02.mp4)
+## 演示 / Demo
+
+<video src="./PixPin_2026-07-10_15-17-02.mp4" controls width="100%"></video>
+
+[无法播放时点这里查看视频 / Open demo video](./PixPin_2026-07-10_15-17-02.mp4)
 
 ## 中文说明
 
